@@ -1,0 +1,7 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊñŽô
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ùÁª±
+S
+java:S1128"=Remove this unused import 'com.company.entity.BaseHouseType'.(­¸â‡
